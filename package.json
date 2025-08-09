@@ -1,8 +1,9 @@
 {
-  "name": "flomo-mcp",
+  "name": "@chenchenmuxin/flomo-mcp",
+  "homepage": "https://github.com/NSRFSN/flomo-mcp",
   "version": "0.1.0",
+  "private": false,
   "description": "My Flomo Mcp",
-  "private": true,
   "type": "module",
   "bin": {
     "flomo-mcp": "./build/index.js"
